@@ -12,7 +12,7 @@
 
 3. Please take a look at my projects here: [My repositories](https://github.com/sachinmargam?tab=repositories)
 
-4. I would love to share experiences about: Python, R, SQL, MATLAB related to concepts in Quantitative Finance, Risk Management, Portfolio Management, Fixed Income Product Pricing, and Probability theory.
+4. I would love to share my experiences about: Python, R, SQL, MATLAB related to concepts in Quantitative Finance, Risk Management, Portfolio Management, Fixed Income Product Pricing, and Probability theory.
 
 
 #### Some of my projects are listed below
